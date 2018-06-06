@@ -1,0 +1,106 @@
+main h1{
+            background-color: darkmagenta;
+            color:antiquewhite;
+            text-align: center;
+            font-size: 30px;
+            font-family: "Time New Roman";
+            border-bottom: 10px solid black;
+            
+        }
+h2{
+    background-color:darkmagenta;
+    color:antiquewhite;
+    font-size: 20px;
+    font-family: "Open Sans";
+    clear: both;
+}
+p{
+    text-align: justify;
+    font-family: "Open Sans";
+}
+blockquote {
+    background-color: #D9E5E3;
+    border: 6px dashed darkmagenta;
+    padding: 16px;
+    margin: 0;
+    width: 220px;
+    box-sizing: border-box;
+    float: right;
+}
+aside {
+    background-color: darkmagenta;
+    color: antiquewhite;
+     box-sizing: border-box;
+    
+    
+}
+footer {
+    background-color: #000;
+    color: antiquewhite; 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+nav a {
+    color: antiquewhite;
+}
+div{
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    line-height: 1.5;
+}
+li{
+    display: inline-block;
+}
+aside li{
+    display: inline-block;
+}
+.citacaoempresa{
+    float: right;
+    width: 15%;
+}
+aside.img{
+    float: right;
+}
+aside{
+    float: right;
+     width: 15%;
+}
+main{
+    float:left;
+    width: 85%;
+    padding-bottom: 80px;
+}
+footer{
+    clear: both;
+}
+.minha-foto{
+    position: absolute;
+    top: 0;
+    right: 0;       
+}
+.navegacao-site {
+    width: 15%;
+    position: relative;
+    top: 310px;
+}
+.rodape-pagina {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+}
+.container{
+    width: 400px;
+}
+.primeiro{
+    float: left;
+}
+.segundo{
+    float: right;
+}
